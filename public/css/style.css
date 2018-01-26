@@ -1,0 +1,32 @@
+body {
+    background-color: #F6D17A;
+}
+
+.jumbotron {
+    background: none;
+    color: red;
+}
+
+#burger-header {
+    width: 25%;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    /* background: #faebd7; */
+    list-style: none;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
